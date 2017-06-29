@@ -3,3 +3,11 @@
 .accent {
   color: #55b3ef;
 }
+
+table.reveal td {
+  text-align: center !important;
+}
+
+table.reveal tr td:first-child {
+  text-align: right;
+}
